@@ -1,3 +1,4 @@
 # Parcial1CSW2
 Ejercicio de programar con git
-Desarrolla un algoritmo que solicite la edad de 20 personas y muestra cuantos son mayores y menores de edad
+
+desarrolle un algoritmo que solicite un número entero y diferente a cero e indique si es par
